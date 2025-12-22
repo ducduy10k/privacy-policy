@@ -223,6 +223,9 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
+## Data Download & Usage
+Our app may download machine learning models from our server to enable features such as offline translation and image recognition. These models are used only within the app and do not contain executable code. We do not collect or share personal data during this process.
+
 ## Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
